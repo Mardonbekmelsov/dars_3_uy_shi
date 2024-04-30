@@ -1,16 +1,4 @@
-# dars_3_uy_shi
+![image](https://github.com/Mardonbekmelsov/dars_3_uy_shi/assets/153820615/3bf214ed-c645-43c9-816f-9ff6b6754a5f)
 
-A new Flutter project.
+![image](https://github.com/Mardonbekmelsov/dars_3_uy_shi/assets/153820615/55f9e5c9-1e26-4e4f-b108-553d0260055e)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
